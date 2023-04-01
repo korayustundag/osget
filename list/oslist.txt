@@ -1,8 +1,8 @@
-debian,Debian 11,800MB,https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-11.6.0-amd64-netinst.iso
-neon,KDE Neon 23.03,2.1GB,https://files.kde.org/neon/images/user/20230329-1527/neon-user-20230329-1527.iso
-kali,Kali 23.01,3.8GB,https://cdimage.kali.org/kali-2023.1/kali-linux-2023.1-installer-amd64.iso
-manjaro,Manjaro 22.0,1.27GB,https://download.manjaro.org/gnome/22.0.5/manjaro-gnome-22.0.5-230316-linux61.iso
-suse,openSUSE Leap 15.4,1.16GB,https://download.opensuse.org/distribution/leap/15.4/appliances/iso/openSUSE-Leap-15.4-CR-DVD-x86_64-Media.iso
-oracle,Oracle R9.1,2.77GB,https://yum.oracle.com/ISOS/OracleLinux/OL9/u1/x86_64/OracleLinux-R9-U1-x86_64-dvd.iso
-ubuntu,Ubuntu 22.04,3.95GB,https://releases.ubuntu.com/22.04.2/ubuntu-22.04.2-desktop-amd64.iso
-vanilla,Vanilla 22.10,1.15GB,https://cdn.vanillaos.org/assets/ISO/22.10-r8/VanillaOS-22.10-all.20230226.iso
+debian,Debian 11,388MB,https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-11.6.0-amd64-netinst.iso
+neon,KDE Neon 23.03,2.4GB,https://files.kde.org/neon/images/user/current/neon-user-current.iso
+kali,Kali 23.01,3.6GB,https://cdimage.kali.org/kali-2023.1/kali-linux-2023.1-installer-amd64.iso
+manjaro,Manjaro 22.0,3.7GB,https://download.manjaro.org/gnome/22.0.5/manjaro-gnome-22.0.5-230316-linux61.iso
+suse,openSUSE Leap 15.4,3.9GB,https://download.opensuse.org/distribution/leap/15.4/appliances/iso/openSUSE-Leap-15.4-CR-DVD-x86_64-Media.iso
+oracle,Oracle R9.1,9GB,https://yum.oracle.com/ISOS/OracleLinux/OL9/u1/x86_64/OracleLinux-R9-U1-x86_64-dvd.iso
+ubuntu,Ubuntu 22.04,4.6GB,https://releases.ubuntu.com/22.04.2/ubuntu-22.04.2-desktop-amd64.iso
+vanilla,Vanilla 22.10,1.8GB,https://cdn.vanillaos.org/assets/ISO/22.10-r8/VanillaOS-22.10-all.20230226.iso
